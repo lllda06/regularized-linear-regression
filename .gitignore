@@ -1,0 +1,62 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Environment variables
+
+.env
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Large model files
+
+*.pkl
+*.joblib
+
+# Local datasets
+
+# Uncomment if the dataset should not be uploaded to GitHub
+
+# data/*.csv
